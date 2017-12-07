@@ -9,7 +9,7 @@ Visit the [website](http://vutondesign.com/wave/).
 
 ### Install
 ```
-git clone https://github.com/vutondesign/wait.git
+git clone https://github.com/vutondesign/wave.git
 ```
 
 ### Credits
