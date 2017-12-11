@@ -2,10 +2,10 @@
 <p align="center"> 🎾 A web-based to do list </p>
 
 ### Usage
-Visit the [website](http://vutondesign.com/wave/).
+Visit the [website](https://vutondesign.com/wave/).
 
 ### License 
-🎨 with ❤️ by vutondesign under the [MIT License](http://vutondesign.com/MyMIT/).
+🎨 with ❤️ by vutondesign under the [MIT License](http://vutondesign.com/mymit/).
 
 ### Install
 ```
