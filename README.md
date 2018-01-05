@@ -1,5 +1,5 @@
 <h1 align="center"> Wave </h1>
-<p align="center"> 🎾 A web-based to do list </p>
+<p align="center"> 🌊  A web-based to do list that flows </p>
 
 ### Usage
 Visit the [website](https://vutondesign.com/wave/).
