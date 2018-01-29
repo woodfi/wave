@@ -49,3 +49,11 @@ function newElement() {
     }
   }
 }
+
+function handleEnter(e) {
+  var h = e || window.event;
+  var k = h.keyCode || h.which;
+  if (k == 13 || k == 3) {
+    newElement();
+  }
+}
