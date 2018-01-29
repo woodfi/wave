@@ -5,7 +5,7 @@
 Visit the [website](http://ktrvs.com/wave/).
 
 ### License 
-🎨 with ❤️ by vutondesign under the [MIT License](http://ktrvs.com/mymit/).
+🎨 with ❤️ by ktrvs under the [MIT License](http://ktrvs.com/mymit/).
 
 ### Install
 ```
