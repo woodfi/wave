@@ -9,7 +9,7 @@ Visit the [website](http://ktrvs.com/wave/).
 
 ### Install
 ```
-git clone https://github.com/vutondesign/wave.git
+git clone https://github.com/ktrvs/wave.git
 ```
 
 ### Credits
