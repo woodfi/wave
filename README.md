@@ -2,10 +2,10 @@
 <p align="center"> 🌊  A web-based to do list that flows </p>
 
 ### Usage
-Visit the [website](http://ktrvs.com/wave/).
+Visit the [website](http://ktrvs.github.io/wave).
 
 ### License 
-🎨 with ❤️ by ktrvs under the [MIT License](http://ktrvs.com/mymit/).
+🎨 with ❤️ by ktrvs under the [MIT License](http://ktrvs.github.io/mymit/).
 
 ### Install
 ```
